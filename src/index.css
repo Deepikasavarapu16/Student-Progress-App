@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+p {
+  color: rgb(59, 59, 59);
+  font-weight: 600;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.fa-trophy {
+  color: gold;
+}
+
+.fa-calendar-check {
+  color: blue;
+}
+.fa-graduation-cap {
+  color: green;
+}
+.fa-square-xmark {
+  color: tomato;
+}
+.fa-star {
+  color: gold;
+}
+.fa-flag {
+  color: aquamarine;
+}
+.fa-id-badge {
+  font-size: x-large;
+  color: aquamarine;
+}
+.fa-user-tie {
+  color: aquamarine;
+}
+.fa-code-branch {
+  font-size: x-large;
+  color: aquamarine;
+}
+
+.recharts-pie {
+  width: 450px;
+  height: 250px;
+}
+
+.Anime {
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+
+@media only screen and (max-width: 420px) {
+  /* .css-66gjpw-MuiResponsiveChart-container {
+    width: 150px;
+    height: 150px;
+  } */
+}
